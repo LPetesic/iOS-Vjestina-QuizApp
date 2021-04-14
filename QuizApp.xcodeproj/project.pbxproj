@@ -20,7 +20,6 @@
 		52434C90261E28A9005522AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52434C8E261E28A9005522AD /* Main.storyboard */; };
 		52434C92261E28AC005522AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52434C91261E28AC005522AD /* Assets.xcassets */; };
 		52434C95261E28AC005522AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52434C93261E28AC005522AD /* LaunchScreen.storyboard */; };
-		A59FA11D100D9A6EF3174FBA /* Pods_QuizApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0F872AB9E6671755366DCFA /* Pods_QuizApp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,7 +48,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A59FA11D100D9A6EF3174FBA /* Pods_QuizApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

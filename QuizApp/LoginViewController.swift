@@ -26,7 +26,7 @@ class LoginViewController :
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .blue
+        view.backgroundColor = .systemPurple
         var loginView = LoginView()
         view.addSubview(loginView)
         addElements(targetView : loginView)

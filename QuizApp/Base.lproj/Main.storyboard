@@ -33,10 +33,7 @@
                                 </state>
                             </button>
                             <textField opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="leading" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="X0E-7d-kEJ">
-                                <rect key="frame" x="100" y="288" width="214" height="34"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="200" id="Lfq-hI-6EE"/>
-                                </constraints>
+                                <rect key="frame" x="0.0" y="288" width="414" height="34"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
                             </textField>
@@ -44,9 +41,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.3336678743" green="0.25681897999999997" blue="0.56862169500000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="X0E-7d-kEJ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="IFO-Dk-JY3"/>
-                            <constraint firstItem="X0E-7d-kEJ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="100" id="M5n-DA-AIq"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="X0E-7d-kEJ" secondAttribute="trailing" constant="100" id="Q6C-1t-arw"/>
+                            <constraint firstItem="X0E-7d-kEJ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="iJQ-v9-NKY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="X0E-7d-kEJ" secondAttribute="trailing" id="otb-Kd-8wl"/>
                         </constraints>
                     </view>
                 </viewController>
