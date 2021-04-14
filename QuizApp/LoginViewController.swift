@@ -40,7 +40,7 @@ class LoginViewController :
     
     private func addElements(targetView : UIView){
         let label = UILabel(frame: CGRect(x: 0, y: -50, width: 200, height: 30 ))
-        label.text = "Pop Quiz :O"
+        label.text = "Pop Quiz"
         label.textColor = .white
         label.font = .systemFont(ofSize: 24)
         label.textAlignment = .center
